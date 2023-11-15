@@ -1,0 +1,28 @@
+{
+  "name": "testestech",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "api:login": "node ./tech/apiLogin.js",
+    "api:flash": "node ./tech/apiConsultaFlash.js",
+    "api:jall": "node ./tech/apiJallCard.js",
+    "api:test": "node ./tech/apiTests.js",
+    "api:template": "node ./tech/formTemplate.js",
+    "api:token": "node ./tech/generateToken.js",
+    "api": "node ./tech/importCsv.js"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "csvtojson": "^2.0.10",
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "javascript": "^1.0.0",
+    "js-yaml": "^4.1.0",
+    "postman-collection": "^4.1.7",
+    "postman-to-openapi": "^3.0.1",
+    "qs": "^6.11.2",
+    "readline-sync": "^1.4.10",
+    "yaml": "^2.3.1"
+  }
+}

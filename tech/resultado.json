@@ -1,0 +1,59 @@
+{
+    "protocol": "2023114589652",
+    "client": "{{clientId_allianz}}",
+    "form": "{{formId_allianz_AgendamentoInspecao}}",
+    "payloadOrigin": {
+        "data": {
+            "finalidade": {
+                "finalidade": "Agendamento de inspeção"
+            },
+            "dadosPedido": {
+                "idRamo": "ramo",
+                "dataPedido": "2022-12-26T03:00:00.000Z",
+                "idCorretor": "959",
+                "idProposta": "87356",
+                "nifSegurado": "171.102.370-10",
+                "nomeCorretor": "Corretor",
+                "nomeSegurado": "Segurado",
+                "tipoInspecao": "733",
+                "statusInspecao": "teste"
+            },
+            "dadosCorretor": {
+                "DDD": "41",
+                "nifCorretor": "171.102.370-10",
+                "nomeCorretor": "Ludimilla Krautzuk",
+                "emailCorretor": "ludimillakrautzuk13@gmail.com",
+                "susepCorretor": "COL10J",
+                "telefoneCorretor": "998146063"
+            },
+            "dadosPrestador": {
+                "nifPrestador": "126.786.379-08",
+                "nomePrestador": "Ludi",
+                "emailPrestador": "ludimilla.krautzuk@tech4h.com.br",
+                "telefonePrestador": "41998146063"
+            },
+            "dadosInspecao": {
+                "DDD": "41",
+                "idRamo": "ranio",
+                "idPedido": "1111",
+                "idEndosso": "11",
+                "dataPedido": "2022-12-26T03:00:00.000Z",
+                "idProposta": "11",
+                "observacao": "teste",
+                "cepSegurado": "81470-380",
+                "loginPedido": "teste",
+                "nifSegurado": "171.102.370-10",
+                "horarioContato": "teste",
+                "contatoSegurado": "Ludimilla Krautzuk",
+                "enderecoInspecao": "rua",
+               "telefoneSegurado": "998146061"
+            }
+        }
+    },
+    "customer": {
+        "document": "12678637908",
+        "email": "ludimilla.krautzuk@tech4h.com.br",
+        "name": "Ludimilla",
+        "phone":"41 998146063"
+    }
+}

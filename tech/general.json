@@ -1,0 +1,41 @@
+{
+    "protocol":"7895632145632",
+        "payloadOrigin": {
+            "data": {
+                "finalidade": {
+                    "finalidade": "Bloqueios"
+                },
+                "dadosProposta": {
+                    "idRamo": "1111",
+                    "idProposta": "1111",
+                    "dataProposta": "11112000",
+                    "tipoCorretor": "p",
+                    "quantidadeItens": "1",
+                    "quantidadeBloqueios": "1"
+                },
+                "dadosPrestador": {
+                    "nifPrestador": "967.760.540-29",
+                    "nomePrestador": "Lud",
+                    "emailPrestador": "lud@gmail.com",
+                    "telefonePrestador": "41998146061"
+                },
+                "dadosCorretor": {
+                    "DDD": "41",
+                    "nifCorretor": "967.760.540-29",
+                    "nomeCorretor": "Ludimilla",
+                    "emailCorretor": "lud@gmail.com",
+                    "susepCorretor": "COL10J",
+                    "codigoCorretor": "81470381",
+                    "telefoneCorretor": "998146061"
+                },
+                "dadosSegurado": {
+                    "nomeSegurado": "Segurado",
+                    "documentoSegurado": "225.177.419-05"
+                },
+                "nomeCorretor": "Ludi - Tech"
+            }
+        },
+        "customer": {
+            "email": "ludimilla.krautzuk@tech4h.com.br"
+        }
+}

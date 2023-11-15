@@ -1,0 +1,60 @@
+{
+  "form": "{{formId_allianz_endossoEpac}}",
+  "client": "{{clientId_allianz}}",
+  "payloadOrigin": {
+    "data": {
+      "finalidade": {
+        "finalidade": "Endosso parcerias (Massificados)"
+      },
+      "endosso1": {
+        "motivoCancelamento": "vg5435243"
+      },
+      "endosso2": {
+        "motivoCancelamento": "vg5435243"
+      },
+      "endosso3": {
+        "motivoCancelamento": "vg5435243"
+      },
+      "endosso4": {
+        "motivoCancelamento": "vg5435243"
+      },
+      "endosso5": {
+        "motivoCancelamento": "vg5435243"
+      },
+      "endosso6": {
+        "motivoCancelamento": "vg5435243"
+      },
+      "endosso7": {
+        "motivoCancelamento": "vg5435243"
+      },
+      "endosso8": {
+        "motivoCancelamento": "vg5435243"
+      },
+      "endosso9": {
+        "motivoCancelamento": "vg5435243"
+      },
+      "endosso10": {
+        "motivoCancelamento": "vg5435243"
+      },
+      "informacaoSegurado1": {
+        "naturezaJuridica": "",
+        "cpf": "20171013972",
+        "cnpj": "",
+        "nome": "",
+        "razaoSocial": "",
+        "numeroDaApoliceVigente": "",
+        "email": "",
+        "telefone": ""
+      },
+      "nomeCorretor": "TESTE TECH4HUMANS",
+      "grupo": {
+        "grupo": "massificados"
+      }
+    }
+  },
+  "customer": {
+    "email": "anderson.silveira@tech4h.com.br",
+    "name": "Anderson",
+    "document": "00000000000"
+  }
+}
